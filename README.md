@@ -32,5 +32,7 @@
 
 <img src = "https://github.com/user-attachments/assets/a191e800-5b6c-4521-b525-c5c361835a0b" width="300" height="200">
 
+## 차후 개선 방향
+#### 개인별 얼굴특징 파악을 위해 많은 모델 학습 필요
 
-   
+#### 사회적 문제와 연계 - 독거노인을 위한 서비스 구현 및 배포
