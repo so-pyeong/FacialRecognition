@@ -21,6 +21,7 @@
 다른 값들과 수치 비교하여 해당 감정만 나타날 수 있도록 수정
 
 🔍코드 첨부
+
   🔹수정 전 (눈썹의 위치만 조정하니 정확도 낮음)
      
 <img src = "https://github.com/user-attachments/assets/8d9ca092-f224-4671-94d4-40cf20d1580b" width="300" height="200">
